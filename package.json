@@ -1,0 +1,12 @@
+{
+  "name": "tunnel",
+  "version": "0.0.1",
+  "description": "SSH Tunnels for MySQL Databases",
+  "main": "tunnel.js",
+  "author": "Alex Gurrola",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "tunnel-ssh": "~1.0.1"
+  }
+}
