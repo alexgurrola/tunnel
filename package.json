@@ -7,6 +7,6 @@
   "private": true,
   "license": "MIT",
   "dependencies": {
-    "tunnel-ssh": "~1.0.1"
+    "tunnel-ssh": "~4.1.4"
   }
 }
